@@ -1,0 +1,9 @@
+﻿<Application x:Class="Adewuyi_Alawusa_chat.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Adewuyi_Alawusa_chat"
+             StartupUri="/Splashscreen.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
